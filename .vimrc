@@ -1,3 +1,15 @@
+" environment installation:
+" 1.install vim-plug
+" sudo apt install curl
+" curl -fLo ~/.vim/autoload/plug.vim --create-dirs https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+" plugin install command: PlugInstall
+"
+" 2.install universe-ctag
+" git clone git@github.com:universal-ctags/ctags.git
+" sudo apt install autoconf
+" sudo apt install pkg-config
+" see the document: doc/autotool.rst
+"
 " Specify a directory for plugins
 " - For Neovim: ~/.local/share/nvim/plugged
 " - Avoid using standard Vim directory names like 'plugin'
